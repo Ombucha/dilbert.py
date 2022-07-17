@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "dilbert.py"
+version = "1.0.0"
+description = "Fetch comics from Dilbert."
+authors = ["Mr.Brawler <omkaar.nerurkar@gmail.com>"]
+license = "MIT"
+readme = "README.rst"
+repository = "https://github.com/Pysics/dilbert.py/"
+documentation = "https://dilbert.readthedocs.io/"
+keywords = ["python", "dilbert"]
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+packages = ["dilbert"]
+
+[tool.poetry.dependencies]
+beautifulsoup4 = "4.11.*"
+requests = "2.27.*"
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/Pysics/dilbert.py/issues"
