@@ -2,4 +2,4 @@
 max-line-length = 240
 
 [MASTER]
-disable = R0916, C0116
+disable = R0916, C0116, C0114, E0401, R0903
