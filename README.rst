@@ -1,11 +1,11 @@
 dilbert.py
 ===========
 
-.. image:: https://img.shields.io/github/license/pysics/dilbert.py
-    :target: https://github.com/Pysics/dilbert.py/blob/main/LICENSE.md
+.. image:: https://img.shields.io/github/license/Infiniticity/dilbert.py
+    :target: https://github.com/Infiniticity/dilbert.py/blob/main/LICENSE.md
     :alt: license
-.. image:: https://img.shields.io/tokei/lines/github/pysics/dilbert.py
-    :target: https://github.com/Pysics/dilbert.py/graphs/contributors
+.. image:: https://img.shields.io/tokei/lines/github/Infiniticity/dilbert.py
+    :target: https://github.com/Infiniticity/dilbert.py/graphs/contributors
     :alt: lines of code
 .. image:: https://img.shields.io/pypi/v/dilbert.py
     :target: https://pypi.python.org/pypi/dilbert.py
@@ -43,7 +43,7 @@ To install the development version, do the following:
 
 .. code-block:: sh
 
-    $ git clone https://github.com/Pysics/dilbert.py
+    $ git clone https://github.com/Infiniticity/dilbert.py
 
 
 Links
