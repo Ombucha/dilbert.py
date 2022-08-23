@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dilbert.py"
-version = "1.0.0"
+version = "1.0.1"
 description = "Fetch comics from Dilbert."
 authors = ["Infiniticity <omkaar.nerurkar@gmail.com>"]
 license = "MIT"
